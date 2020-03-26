@@ -1,0 +1,13 @@
+Max Burkle Goya, A01702321
+
+What made it easier for you to implement the view? 
+The ability to see what the view would look like and also having the base that
+was developed in class.
+
+What made it difficult for you to implement the view?
+First of all, my computer is very slow and it gets stuck a lot of the time making its very difficult
+to use android studio and not letting me use an emulator in my computer.
+
+I have a lot of trouble understanding most parts and what everything does in android studio. I needed
+a lot of help from classmates and the internet. I also have a lot of trouble understanding how JSON works
+but I want to at least understand kotlin.

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pokemon_names" type="id" />
+    <item name="pokemon_types" type="id" />
+    <item name="pokemon_movimientos" type="id" />
+    <item name="pokemon_base" type="id" />
+</resources>
